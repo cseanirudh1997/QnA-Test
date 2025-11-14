@@ -1,0 +1,11 @@
+duckdb>=0.9.0# Local Text-to-SQL Assistant Requirements
+
+pandas>=1.3.0gradio>=4.0.0
+
+flask>=2.3.0pandas>=1.3.0
+
+requests>=2.31.0sqlite3  # Built into Python
+langdetect>=1.0.9
+googletrans==4.0.0rc1
+openpyxl>=3.0.0
+werkzeug>=2.3.0
